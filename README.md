@@ -1,2 +1,3 @@
-# Cyber-Empower
-Website for Cyber Empower Coding Camp
+# Cyber-Empower<br>
+Cyber Empower is a <strong>youth-driven initiative </strong>working to increase computer science education through engaging in-person summer camps customized for the middle school age group. We bring computer science to a younger demographic in order to spark curiosity and exploration of the subject early on.<br>
+Furthermore, we work to<strong> increase diversity </strong>in the future technology workforce by fostering a supportive environment through camps dedicated for girls and students from underrepresented backgrounds. Our efforts will soon span to an international level in order to empower and inspire as many students as possible. Finally, Cyber Empower is completely<strong> free of charge</strong> because we believe that computer science education should be easily accessible to all.
